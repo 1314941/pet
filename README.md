@@ -6,3 +6,10 @@
 ## 2.可互动
 ## 3.ai对话
 ## 4.三模式，自由掉落（可点击），随心所欲（不可点击或可点击）
+# 进度
+## 动作设计器
+已基本成型(图中为steam免费游戏桌宠萝莉丝的图片)
+![这是一张动作编辑器的图片](https://github.com/1314941/pet/blob/36a0f4fb97d9aa5d72500a157350e153d181af96/Resource/actionpanel.png)
+## python展现live2d
+计划使用live2d这个python库实现，目前正在学习...
+[传送门](https://pypi.org/project/live2d-py/)
